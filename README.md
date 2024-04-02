@@ -1,6 +1,6 @@
 ## IQTrek Machine Test
 
-This is Python Project for Employee CRUD application using Django Rest Framework..
+This is Python Project for Restaurant application using Django Rest Framework..
 
 
 ## Installation
